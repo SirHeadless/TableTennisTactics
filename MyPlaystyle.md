@@ -100,3 +100,4 @@
 2. Start matches with Strategy 1 to check how the opponent returns this kind of serves and if the strategy could work
 
 3. Improve BH to have more speed and better placement to prepare your VH
+
