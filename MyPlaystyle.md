@@ -45,25 +45,26 @@
 
 ### Placement and tactics
 
-| Serve     | Placement | Tactics                                 | Risk                                                         | Play against                                    |
-| --------- | --------- | --------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------- |
-| Backspin  | BH        | Spin the ball with the BH into the body | 1. The opponent flips or topspins the ball<br />2. I'm less prepared for balls into my FH | Players with weak BH                            |
-| Backspin  | FH        | Play next ball into long BH             | A push long into my FH                                       | Players with weak VH                            |
-| Topspin   | long BH   | Attack the ball hard with the FH        | 1. I miss the hard FH quite often <br />2. Ball to attack    | Against weak BH                                 |
-| Topspin   | short     | Attack the ball hard                    | Flip or block into my FH                                     | Players with weak flip                          |
-| Topspin   | Elbow     | Attack with the FH                      | Can be played into my long FH                                | Slow players                                    |
-| Topspin   | VH        | Attack the ball with VH or BH           | Risky ball because most players have strong VH               | 1. BH oriented players<br />2. Suprise          |
-| Side-Top  | BH        | Attack hard with VH                     | 1. Goes often very wide into my backhand so I leave<br />my VH open when attacking<br />2. Can be attacked | Against weak BH                                 |
-| Side-Top  | Elbow     | Attack hard with VH                     | Can be looped by fast players                                | Slow players                                    |
-| Side-Top  | VH        | Attack with VH or BH                    | Risky ball because most players have strong VH               | 1. BH oriented players<br />2. Surprise         |
-| Side-US   | BH        | Attack with VH                          | Risky because it goes longer and it is easier to loop        | Weak BH                                         |
-| Side-US   | Elbow     | Attack with VH                          | Risky ball when the opponent moves fast                      | Slow players                                    |
-| No spin   | short VH  | Play long BH                            | Can be flipped                                               | Strong BH players                               |
-| No spin   | short BH  | Flip Ball                               | Can be flipped or placed well                                |                                                 |
-| Flat Hard | BH/Elbow  | BH or VH Attack                         | 1. Can be attacked<br />2. Can be placed into my VH          | 1, Strong against Material <br />2. slow player |
-| Flat Hard | VH        | BH or VH Attack                         | 1. Can be placed in my long VH<br />2. Can be attacked easily | Players that want to play VH from BH            |
-|           |           |                                         |                                                              |                                                 |
-|           |           |                                         | **Finish list here for reversed pendulum**                   |                                                 |
+| Serve        | Placement | Tactics                                 | Risk                                                         | Play against                                    |
+| ------------ | --------- | --------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------- |
+| Backspin     | BH        | Spin the ball with the BH into the body | 1. The opponent flips or topspins the ball<br />2. I'm less prepared for balls into my FH | Players with weak BH                            |
+| Backspin     | FH        | Play next ball into long BH             | A push long into my FH                                       | Players with weak VH                            |
+| Topspin      | long BH   | Attack the ball hard with the FH        | 1. I miss the hard FH quite often <br />2. Ball to attack    | Against weak BH                                 |
+| Topspin      | short     | Attack the ball hard                    | Flip or block into my FH                                     | Players with weak flip                          |
+| Topspin      | Elbow     | Attack with the FH                      | Can be played into my long FH                                | Slow players                                    |
+| Topspin      | VH        | Attack the ball with VH or BH           | Risky ball because most players have strong VH               | 1. BH oriented players<br />2. Suprise          |
+| Side-Top     | BH        | Attack hard with VH                     | 1. Goes often very wide into my backhand so I leave<br />my VH open when attacking<br />2. Can be attacked | Against weak BH                                 |
+| Side-Top     | Elbow     | Attack hard with VH                     | Can be looped by fast players                                | Slow players                                    |
+| Side-Top     | VH        | Attack with VH or BH                    | Risky ball because most players have strong VH               | 1. BH oriented players<br />2. Surprise         |
+| Side-US      | BH        | Attack with VH                          | Risky because it goes longer and it is easier to loop        | Weak BH                                         |
+| Side-US      | Elbow     | Attack with VH                          | Risky ball when the opponent moves fast                      | Slow players                                    |
+| No spin      | short VH  | Play long BH                            | Can be flipped                                               | Strong BH players                               |
+| No spin      | short BH  | Flip Ball                               | Can be flipped or placed well                                |                                                 |
+| Flat Hard    | BH/Elbow  | BH or VH Attack                         | 1. Can be attacked<br />2. Can be placed into my VH          | 1, Strong against Material <br />2. slow player |
+| Flat Hard    | VH        | BH or VH Attack                         | 1. Can be placed in my long VH<br />2. Can be attacked easily | Players that want to play VH from BH            |
+| RPS Topspin  | short VH  |                                         | Strawberry flip is strong against it                         |                                                 |
+| RPS Sidespin | short VH  |                                         | Goes out of the table so it can be attacked better<br />Strawberry flip is strong against it |                                                 |
+| RPS side BS  | short VH  |                                         | Strawberry flip is strong against it                         |                                                 |
 
 
 
@@ -116,4 +117,30 @@ Try to use your strong VH as often as possible . Do long serves into his BH or T
 ### Game C
 
 Just push the ball with your BH and wait for a good ball you can attack => I'm ok in this but not so strong. Best to use against defender when I can't get through there "wall"
+
+
+
+## How to play matches
+
+### Preparation for a serve
+
+1. Think what serve to play
+2.  What is the  ideal return you want to provoke 
+3. Where do you wanna stand 
+4. Take a breath
+5. Blank everything out  and breath out
+6. Concentrate on the serve and take a breath
+7. Serve when breath out
+
+### What to practice
+
+| id   | goal/description                                             | Exercise                                                     | What to take care of                                         | Importance |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| T1   | Strawberry flip: Being more variable in return especially short in my VH | Opp: Short serve into my VH<br />Strawberry flip into VH => VH TS | Going back fast after the flip and cover the long VH<br />You can either play block close to the table or counter loop it<br />**Check what is better** | 5/10       |
+| T2   | VH flip: Being more variable in return<br />**Just bring it on the table for now** | Opp: short serve into my VH<br />VH flipp anywhere           | Very important to be back fast again                         | 4/10       |
+| T3   | Playing returns wider in the VH so they are harder to attack | Opp: short serve into my VH<br />long push into VH           | Very important to be back fast again<br />Try to pretend to push into backhand and change direction in last second | 5/10       |
+| T4   | Improve BH-BH rally                                          | 1, BH-BH rally with change to VH<br />2. I: serve => push to my backhand<br />BH TS into BH => BH-BH rally | When the opponent plays a hard strike you don't have to play hard as well this strike<br />Keep the return long<br />Try to play also in the wide backhand<br />Try to make more with placement then speed | 8/10       |
+| T5   | Improve placement of your BH FLIP/TS                         | 1.Opp: All kind of serves into my BH <br />=> TS/FLIP<br />2. I: short serve => push into my BH<br />BH TS | Try to make good placement and try to increase the speed<br />Try to change directions in last second | 6/10       |
+| T5   | Improve third ball attack with VH                            | 1. I: serve => push to vh or middle<br />VH TS               | Good placement                                               | 6/10       |
+| T6   | Improve footwork with TS into VH                             | Loop everything into VH <br />Opp blocks: BH => middle => BH => VH | Good movements                                               | 6/10       |
 
