@@ -101,3 +101,19 @@
 
 3. Improve BH to have more speed and better placement to prepare your VH
 
+
+
+## My Games
+
+### Game A
+
+Try to set up the point by a good BH oppening. Do a lot of short serves into his backhand and loop the return.
+
+### Game B
+
+Try to use your strong VH as often as possible . Do long serves into his BH or TS serves and attack the next ball 
+
+### Game C
+
+Just push the ball with your BH and wait for a good ball you can attack => I'm ok in this but not so strong. Best to use against defender when I can't get through there "wall"
+
